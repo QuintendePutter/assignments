@@ -5,5 +5,5 @@ This repository contains my assignments
 
 [assignment5](https://github.com/QuintendePutter/assignments/blob/master/Assignment_week_5.ipynb)
 
-[assignmentweek8] (https://github.com/QuintendePutter/assignments/blob/master/assignment5.ipynb)
+[assignmentweek8](https://github.com/QuintendePutter/assignments/blob/master/assignment5.ipynb)
 
