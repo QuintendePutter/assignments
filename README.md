@@ -7,4 +7,4 @@ This repository contains my assignments
 
 [assignmentweek8](https://github.com/QuintendePutter/assignments/blob/master/assignment5.ipynb)
 
-[pythonexam](https://github.com/QuintendePutter/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+[Final Python Exam](https://github.com/QuintendePutter/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
